@@ -46,7 +46,7 @@ class _WindowState extends State<Window> {
                   Expanded(
                       child: Container(
                         color: color,
-                        child: Center(child: Text('121321321 ', textAlign: TextAlign.center)),
+                        child: Center(child: Text('Hey there ', textAlign: TextAlign.center)),
                   ))
                 ],
               ),
